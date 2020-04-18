@@ -1,0 +1,22 @@
+{
+  "name": "electron_app",
+  "version": "1.0.0",
+  "description": "A simple Electron App",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davidlacho/electron.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/davidlacho/electron/issues"
+  },
+  "homepage": "https://github.com/davidlacho/electron#readme",
+  "devDependencies": {
+    "electron": "^8.2.3"
+  }
+}
